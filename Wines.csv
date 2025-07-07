@@ -1,0 +1,91 @@
+Producer,Product,Price,Rating,Number of Ratings
+Granbello,Primitivo 2022,"11,49",4.3,236
+Charneca de Pegoes,Tinto 2022,"9,49",4.19,26
+Riverlands,Cabernet Shiraz 2022,"7,99",3.99,78
+Louis Lapierre,Cabernet Sauvignon Merlot 2021,"9,99",4.21,29
+Cantina Tollo,Volatico Sangiovese 2023,"9,99",4.03,33
+Cantina Tollo,Terre del Vento Montepulciano d Abruzzo 2022,"8,49",4.38,106
+Casa Santos Lima,Portuga Tinto Lisboa 2021,"9,99",4.31,42
+Citra,Torre Viva Montepulciano d Abruzzo 2023,"9,99",4.31,59
+Trois Couleurs,Rouge 2023,"9,99",4,17
+Bodegas Bocopa,Don Mantillon 2022,"9,49",4.48,46
+El Jefe,Tempranillo 2023,"9,99",4.34,32
+Casa Ruiz,Tempranillo 2022,"10,79",4.28,18
+Casa del Valle,Valdelagua Clasico Tinto 2023,"9,99",3.89,27
+Globo Rojo,Bobal Bio 2022,"7,99",4.14,36
+Masia Pubill,Gran Seleccion 2022,"9,99",4.33,27
+Antoine Durand,Cabernet Syrah 2023,"9,99",4.25,40
+Domaine Auzias,Les Montagnes 2022,"9,99",4.28,29
+Globo Rojo,Monastrell Bio 2022,"9,99",4.18,34
+Le Chef,Rouge 2023,"9,99",4.42,31
+Casa Relvas,SAFA Tinto 2023,"9,99",4.27,26
+Guardia dei Mori,Nero d Avola 2023,"9,99",4.29,41
+Beau Temps,Cabernet Syrah 2023,"9,99",4.35,49
+Le Coq Leon,Un Litre Vin Rouge 2023,"9,99",3.86,29
+Don Primo,Primitivo 2023,"8,99",4.04,25
+Foncalieu,Fleur du Midi Syrah 2023,"8,49",3.8,10
+The Old Baron,Tempranillo Syrah 2022,"7,99",4.3,114
+Fiuza,Oceanus Reserva Touriga Nacional and Alicante Bouschet 2022,"9,99",4.5,22
+Castillo de Solis,Tempranillo Crianza 2020,"9,99",4.4,48
+Caponniere,Rouge 2023,"8,99",4.47,15
+Rombo,Garnacha Tempranillo 2023,"9,49",3.88,16
+Chateau de Gadras,Bordeaux 2022,"9,99",4.25,108
+Chateau Talmont,Bordeaux Le Secret 2021,"10,99",4.11,323
+La Reserve Pellerue,Bordeaux 2021,"8,99",4.41,32
+Esprit de Fonrozay,Bordeaux 2022,"10,99",3.6,5
+Foncalieu,Fleur du Midi Merlot 2023,"9,99",4.31,105
+Chateau Pillebart,Bordeaux 2021,"8,99",4.24,90
+Castillo de Solis,Tempranillo Seleccion 2023,"9,99",4.5,60
+Colle Imperiale,Montepulciano d Abruzzo 2023,"10,79",4.39,44
+Rocca Vini,Parelli Primitivo 2023,"8,99",4.25,16
+Speranze,Primitivo Puglia 2024,"9,99",4.43,70
+Casa Diaz,Tempranillo 2023,"6,99",4.73,11
+Rocca Vini,Parelli Primitivo Merlot 2024,"10,49",4.36,58
+Roja Bella,Tinto 2023,"8,99",4.36,45
+Marchesi del Salento,Primitivo 2023,"11,49",4.44,27
+Casa Vinicola Botter,Primadoro Negroamaro Primitivo 2024,"8,99",4.36,22
+Granbello,Negroamaro Primitivo 2022,"9,99",4.55,71
+Non Lo So,Sangiovese 2023,"9,99",4.23,159
+Casa Vinicola Botter,Primadoro Nero di Troia Primitivo 2024,"9,99",4.12,26
+,NOT TOO SHABBY Primitivo 2023,"8,99",4.75,4
+Don Primo,Sangiovese Primitivo 2024,"8,99",4.29,24
+Globo Rojo,GSM 2023,"9,99",4.12,34
+,TOO GOOD TO BE TRUE Primitivo 2023,"9,99",4,2
+Rocca Vini,Parelli Sangiovese Primitivo 2024,"11,99",4.45,80
+Casa del Valle,Valdelagua Syrah and Merlot 2024,"8,99",4.5,4
+Rocca Vini,Duchetti Sangiovese Primitivo 2024,"9,99",4.5,94
+,DID SOMEONE SAY Primitivo 2023,"8,99",4,3
+Globo Rojo,Tempranillo 2023,"8,99",4.8,5
+Rocca Vini,Duchetti Negroamaro Primitivo 2024,"8,49",4.53,107
+,NOW WE RE TALKING Primitivo 2023,"9,99",0,0
+Vinex Slavyantsi,Leva Winemakers Collection Cabernet Sauvignon Merlot 2022,"9,99",4.22,9
+Five Peaks,Shiraz 2024,"9,99",5,2
+Casa Vinicola Botter,Primadoro Primitivo 2024,"10,99",4.22,41
+Gran Bodega,Tempranillo 2024,"9,99",4.17,103
+Goenn Dir,Primitivo 2024,"9,99",5,1
+Marchesi del Salento,Negroamaro Primitivo 2024,"11,49",4.37,41
+Citra,Torre Viva Montepulciano d Abruzzo 2024,"9,99",4.31,59
+Fiuza,Pop Galo Tinto 2023,"7,99",4.24,25
+Si Beau,Cuvee Rouge 2024,"9,99",0,0
+Cap des Etoiles,Rouge 2024,"8,49",0,0
+Roja Bella,Tinto 2024,"8,99",4.36,45
+Roja Bella,Garnacha 2024,"9,79",4.04,48
+Anecoop,Castillo Catadau Tinto 2024,"9,99",0,0
+Anecoop,Castillo Catadau Crianza 2021,"9,99",0,0
+Anecoop,Castillo De Tafalla Garnacha Old Vines 2024,"9,79",4.32,31
+Principe Siciliano,Nero d Avola Merlot Sicilia 2024,"8,99",4.21,72
+Les Grandes Collines,Cotes du Rhone 2023,"11,49",4.25,53
+Casa Diaz,Monastrell 2023,"9,99",0,0
+Casa Diaz,Garnacha Syrah 2024,"9,99",0,0
+,FAKT DOBRYù Primitivo 2023,"9,99",0,0
+Colle Imperiale,Montepulciano d Abruzzo 2024,"10,79",0,0
+Guardia dei Mori,Montepulciano d Abruzzo 2024,"9,99",0,0
+Centoporte,Montepulciano d Abruzzo 2024,"9,99",0,0
+Quinta de Sao Sebastiao,Portao 9 Tinto 2023,"8,99",4.29,48
+Cantina Tollo,Lupo del Bosco Sangiovese 2024,"9,99",4.25,51
+Torrevento,Primitivo Taje 2024,"8,99",4.41,224
+Esprit de Lys,Bordeaux 2020,"7,99",4.16,76
+Zin Sala Bim,Zinfandel 2021,"10,79",4.44,237
+Lago Vero,Merlot Veneto 2024,"8,99",4.5,8
+Fiuza,Genoa Tinto 2023,"9,49",4.14,29
+Don Primo,Sangiovese 2024,"8,49",4.18,68
