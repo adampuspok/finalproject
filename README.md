@@ -7,3 +7,5 @@ ml_modell_campaign: machine learning model for wine sales prediction
 Segmentation_tableau: data visualization in Tableau
 webscraping: Jupiter notebook with webscraping data
 Wines: csv file with the extracted data from the website
+
+The final project presentation can be found here: https://docs.google.com/presentation/d/1TSIaevj_Hpc9onjHXQMz7toqV84o-cXPySFKlq_YD74/edit?usp=sharing
